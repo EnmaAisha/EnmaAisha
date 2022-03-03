@@ -13,6 +13,7 @@ In my spare time, I usually end up recreating superheroes from TV shows, notably
 #### Kamen Rider Chaser
 ![Kamen Rider Chaser](https://thumbs.gfycat.com/AdoredPoliticalFlickertailsquirrel-size_restricted.gif)
 
+Click The Picture!
 [![Watch the video](https://img.youtube.com/vi/j2eK5m9rUu4/hqdefault.jpg)](https://www.youtube.com/watch?v=j2eK5m9rUu4)
 
 Included is an example of a 3D model I created in blender.

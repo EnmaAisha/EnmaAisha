@@ -1,7 +1,9 @@
 # 👋Welcome!
 If you are looking for an explanation, you are in the right place.
 ## A little bit about me
-Currently a Computer Science major, switched from Electrical Engineering. I enjoy software. I hope to one day be able to create scripts to use in Unity or as mods for other games.
+Computer Science major, switched from Electrical Engineering. I enjoy software. I hope to one day be able to create scripts to use in Unity or as mods for other games.
+NCL 97th percentile, Japanese minor degree, Power BI, Software Reverse Engineering.
+
 ### Hobbies
 - Video games: VRChat avatar creation, utilizing Computer Science to efficiently animate and drive animations.
 - Movies: Marvel?
@@ -13,8 +15,5 @@ In my spare time, I usually end up recreating superheroes from TV shows, notably
 #### Kamen Rider Chaser
 ![Kamen Rider Chaser](https://thumbs.gfycat.com/AdoredPoliticalFlickertailsquirrel-size_restricted.gif)
 
-Click The Picture!
 
 [![Watch the video](https://img.youtube.com/vi/j2eK5m9rUu4/hqdefault.jpg)](https://www.youtube.com/watch?v=j2eK5m9rUu4)
-
-Included is an example of a 3D model I created in blender.
